@@ -14,7 +14,7 @@ import android.content.Context
 class HookWeatherApplication : Application() {
 
     companion object {
-        const val TOKEN = "AAEHD3736dKDGEDKUEHD"
+        const val TOKEN = "TCFlz13GqH4TjMjW"
         @SuppressLint("StaticFieldLeak")
         lateinit var context: Context
     }
